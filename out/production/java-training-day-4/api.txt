@@ -1,0 +1,11 @@
+EMP_ID,EMP_NAME,GENDER,BIRTHDATE,ADDRESS,CITY
+1,Abraham,M,1990-02-18,Jl. Banceuy No. 41,TANGERANG
+2,Pamela,F,1990-05-22,Jl. Moh. Thoha No. 51,BEKASI
+3,Alexander,M,1987-10-07,Jl. Barata No. 78,TANGERANG
+4,William,M,1989-03-17,Jl. Moh. Thoha No. 86,TANGERANG
+5,George,M,1985-09-09,Jl. Cendana No. 98,BEKASI
+6,Emily,F,1981-11-30,Jl. Karangarum No. 68,BEKASI
+7,Kaylee,F,1983-07-12,Jl. Sirnagalih No. 57,TANGERANG
+8,Jayden,M,1982-06-30,Jl. Barata No. 68,TANGERANG
+9,Oliver,M,1982-11-18,Jl. Alun-Alun Timur No. 98,TANGERANG
+10,Emma,F,1983-04-29,Jl. Ranggagading No. 42,BEKASI

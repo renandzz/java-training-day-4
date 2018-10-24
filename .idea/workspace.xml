@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d533b5e-be08-4d82-931b-f923a4d38196" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LovesMeNotThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LovesMeThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question10_LovesQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TheInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question1.java" afterDir="false" />
-    </list>
+    <list default="true" id="9d533b5e-be08-4d82-931b-f923a4d38196" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/Question9.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -72,8 +54,8 @@
       <file leaf-file-name="Question11.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Question11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="300">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#129#130#0" expanded="true" />
@@ -297,12 +279,12 @@
       <workItem from="1538376277849" duration="4572000" />
       <workItem from="1538461606593" duration="22817000" />
       <workItem from="1539662297178" duration="4110000" />
-      <workItem from="1539833345115" duration="4040000" />
+      <workItem from="1539833345115" duration="4697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39086000" />
+    <option name="totallyTimeSpent" value="39743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -671,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/src/Question9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -706,8 +688,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="300">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#129#130#0" expanded="true" />
